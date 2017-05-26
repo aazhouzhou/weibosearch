@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CookiesPool-master/.idea/CookiesPool-master.iml" filepath="$PROJECT_DIR$/../CookiesPool-master/.idea/CookiesPool-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DoubanSpider-master/.idea/DoubanSpider.iml" filepath="$PROJECT_DIR$/../DoubanSpider-master/.idea/DoubanSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TaobaoItem/.idea/TaobaoItem.iml" filepath="$PROJECT_DIR$/../TaobaoItem/.idea/TaobaoItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TaobaoMeishi/.idea/TaobaoMeishi.iml" filepath="$PROJECT_DIR$/../TaobaoMeishi/.idea/TaobaoMeishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TouTiao-master/.idea/TouTiao-master.iml" filepath="$PROJECT_DIR$/../TouTiao-master/.idea/TouTiao-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weibosearch.iml" filepath="$PROJECT_DIR$/.idea/weibosearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zufang/.idea/zufang.iml" filepath="$PROJECT_DIR$/../zufang/.idea/zufang.iml" />
+    </modules>
+  </component>
+</project>
